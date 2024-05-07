@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nivin-ai
-- 👀 I’m interested in using data to tackle everyday issues, especially in sports and social/environmental couses.
+- 👀 I’m interested in using data to tackle everyday issues, especially in sports and social/environmental causes.
 - 🌱 I’m currently learning about recommendation systems.
 - 💞️ I’m looking to collaborate on a Fantasy Premier League team selection algorithm, where I want to try and use player data to select the best team for each gameweek.
 - 📫 Reach me at nivin1907.ai@gmail.com
