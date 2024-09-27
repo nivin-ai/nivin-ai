@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a Fantasy Premier League team selection algorithm, where I want to try and use player data to select the best team for each gameweek.
 - 📫 Reach me at nivin1907.ai@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have no idea how to use github.
+- ⚡ Fun fact: hmmm...
 
 <!---
 nivin-ai/nivin-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
