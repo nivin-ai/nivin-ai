@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nivin-ai
 - 👀 I’m interested in using data to tackle everyday issues, especially in sports and social/environmental causes.
-- 🌱 I’m currently learning about recommendation systems.
+- 🌱 Currently engaged in learning and building Agentic AI applications using frameworks like Phidata.
 - 💞️ I’m looking to collaborate on a Fantasy Premier League team selection algorithm, where I want to try and use player data to select the best team for each gameweek.
 - 📫 Reach me at nivin1907.ai@gmail.com
 - 😄 Pronouns: he/him
